@@ -3,7 +3,7 @@
 ## Installation
 
 1. [Connect to your Raspberry Pi via SSH]
-1. Clone this repo: `git clone https://github.com/cvaghela/pi-power-button-master.git`
+1. Clone this repo: `git clone https://github.com/cvaghela/pi-power-button-master`
 1. Optional: Edit line 9/10 in listen-for-shutdown.py to your preferred pin (Please see "Is it possible to use another pin other than Pin 5 (GPIO 3/SCL)?" below!)
 1. Run the setup script: `./pi-power-button/script/install`
 
