@@ -1,11 +1,10 @@
 # pi-power-button
-
-Scripts used in our official [Raspberry Pi power button guide](https://howchoo.com/g/mwnlytk3zmm/how-to-add-a-power-button-to-your-raspberry-pi).
+This is a fork from https://github.com/howchoo/pi-power-button-master for personal use.
 
 ## Installation
 
-1. [Connect to your Raspberry Pi via SSH](https://howchoo.com/g/mgi3mdnlnjq/how-to-log-in-to-a-raspberry-pi-via-ssh)
-1. Clone this repo: `git clone https://github.com/Howchoo/pi-power-button.git`
+1. [Connect to your Raspberry Pi via SSH]
+1. Clone this repo: `git clone https://github.com/cvaghela/pi-power-button-master.git`
 1. Optional: Edit line 9/10 in listen-for-shutdown.py to your preferred pin (Please see "Is it possible to use another pin other than Pin 5 (GPIO 3/SCL)?" below!)
 1. Run the setup script: `./pi-power-button/script/install`
 
