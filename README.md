@@ -1,5 +1,4 @@
 # pi-power-button
-This is a fork from https://github.com/howchoo/pi-power-button-master for personal use.
 
 ## Installation
 
