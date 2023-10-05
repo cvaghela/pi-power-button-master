@@ -1,4 +1,4 @@
-# pi-power-button
+# RaspberryPi-Power-Button
 
 ## Installation
 
